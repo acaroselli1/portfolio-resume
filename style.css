@@ -1,0 +1,136 @@
+.sunny-sky{
+   height:100vh;
+   background-image:url("sky.jpg");
+   background-attachment:fixed;
+   background-size:cover;
+}
+
+.rock{
+   height:125vh;
+   background-image:url("https://unsplash.com/search/photos/mountains?photo=lSE4wkEnbWc");
+   background-attachment:fixed;
+   background-size:cover;
+}
+
+.code{
+   height:50vh;
+   background-image:url("https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/02/08/20/p18codeREX.jpg");
+   background-attachment:fixed;
+   background-size:cover;
+}
+
+.javascript{
+  height:50vh;
+  background-image:url("http://sdtimes.com/wp-content/uploads/2015/07/0702.sdt-github-jsiop.png");
+  background-attachment:fixed;
+  background-size:cover;
+}
+
+.ocean{
+  height:100vh;
+  background-image:url("https://unsplash.com/search/photos/mountains?photo=lSE4wkEnbWc");
+  background-attachment:fixed;
+  background-size:cover;
+}
+
+.mountain{
+  height:200vh;
+  background-image:url("mountain.jpg");
+  background-attachment:fixed;
+  background-size:cover;
+}
+
+.full-stack{
+  height:50vh;
+  background-image:url("working.jpg");
+  background-attachment:fixed;
+  background-size:cover;
+}
+
+
+
+body{
+  font-family:'Kaushan Script',cursive;
+  font-size: 5rem;
+  color:black;
+
+
+}
+
+.portimg{
+ border: 15px solid black;
+ border-radius:15px;
+}
+
+.space{
+height:10vh;
+}
+img{
+  opacity:.75;
+}
+
+/* .gridworksgames{
+  opacity:1;
+} */
+h2{
+  font-size:200%;
+  margin-bottom:5vh;
+  padding-top:5vh;
+  padding-bottom:5vh;
+  color:white;
+  background-color:rgba(0,0,0,.75); 
+}
+
+
+h3{
+  font-size:2.5rem;
+  color:white;
+  border-radius:15px;
+  margin-bottom:5vh;
+  background-color:rgba(0,0,0,.75); 
+}
+
+/* .row{
+  margin-bottom:5vh;
+} */
+
+.lightgreen{
+  height:50vh;
+  background-color:#053E05;
+  background-attachment:fixed;
+  background-size:cover;
+
+
+}
+
+.lightgreen2{
+  height:100vh;
+  background-color:#053E05;
+  background-attachment:fixed;
+  background-size:cover;
+
+}
+
+
+h1{
+  color:white;
+  font-size:150%;
+  background-color:rgba(0,0,0,.75); 
+}
+
+.title{
+  background-color:rgba(0,0,0,.75); 
+}
+
+
+.resume{
+  color:white;
+  text-decoration:none;
+}
+/*.parallax  {
+  position: relative;
+  height: 20vh;
+  background-attachment: fixed;
+  background-position:center;
+  background-size: cover;
+}*/
